@@ -14,8 +14,8 @@ actions:
     link: ./demo/
     type: primary
 
-  - text: 文档
-    link: ./guide/
+  - text: 群聊
+    link: https://qm.qq.com/q/j2n3yynkRO
 
 highlights:
   - header: 文档宗旨

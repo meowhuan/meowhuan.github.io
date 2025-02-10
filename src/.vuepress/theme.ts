@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://tlipoca.me",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/favicon.ico",
 
   repo: "meowhuan/meowhuan.github.io",
 
