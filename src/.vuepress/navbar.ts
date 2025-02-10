@@ -7,6 +7,6 @@ export default navbar([
   {
     text: "群聊",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "https://qm.qq.com/q/j2n3yynkRO",
   },
 ]);

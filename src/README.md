@@ -2,11 +2,12 @@
 home: true
 icon: house
 title: 项目主页
-
+heroImage: /logo.svg
+heroImageDark: /logo1.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 服务端文档
-tagline: 该文档旨在帮助部署服务器的萌新
+heroText: Tlipoca Core Nexus
+tagline: Minecraft服务端核心权威指南
 actions:
   - text: 开始
     icon: lightbulb
@@ -22,6 +23,7 @@ highlights:
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     highlights:
+      - title: 做最优质的最权威的服务端核心指南
       - title: 创建所有已知的服务端核心教程，对关键名词进行解析
       - title: 让你帮助萌新不再费舌头
 
